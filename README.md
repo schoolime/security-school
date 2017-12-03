@@ -26,3 +26,6 @@ Do you think those words are tricky for you? No worries. This book walks you thr
 - Simple echo socket programing
 - UML (It’s enough to heard of it. No necessary to handle it)
 - The role of Linux kernels (No necessary to develop it)
+
+## Where to buy
+[Amazon Kindle](https://read.amazon.com/kp/embed?asin=B077VRYKYP&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_bFQiAbSA6W51A)
