@@ -27,5 +27,5 @@ Do you think those words are tricky for you? No worries. This book walks you thr
 - UML (It’s enough to heard of it. No necessary to handle it)
 - The role of Linux kernels (No necessary to develop it)
 
-## Book Sample
+## Book Preview
 [Amazon Kindle](https://read.amazon.com/kp/embed?asin=B077VRYKYP&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_bFQiAbSA6W51A)
