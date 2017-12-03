@@ -15,9 +15,9 @@ While you are reading this book, you will find yourself to implement a simple an
 ![Demo](./images/english/Beginning_Linux_Antivirus_Development_Book_Demo.png)
 
 You might think that this book simply explain code like any other books. The answer is no. This is a story about a student with no experience in security who grows into a security software developer. Starting with a plausible hacking incident, the main character in this book collects requirement, draw a design and write code, so he goes through the entire process. You can also get the knowledge as below after you finish this book.
+- The basics of antivirus structure
 - Requirement-driven development
 - Practical software design using UML
-- The basics of antivirus structure
 - How to modify kernels for security
 
 ## Don’t worry, any developers can read this book. You can be a security software developer.
