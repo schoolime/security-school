@@ -33,5 +33,5 @@ Do you think those words are tricky for you? No worries. This book walks you thr
 ## Where to buy
 [Amazon Kindle/Paperback](https://www.amazon.com/dp/B077VRYKYP?ref_=cm_sw_r_kb_dp_bFQiAbSA6W51A&tag=kpembed-20&linkCode=kpe)
 
-## More Information
-[schoolime](https://schoolime.com)
+## More Information or news
+[Visit schoolime site](https://schoolime.com)
